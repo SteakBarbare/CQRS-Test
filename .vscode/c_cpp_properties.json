@@ -1,0 +1,18 @@
+{
+    "env": {
+      "myDefaultIncludePath": ["${workspaceFolder}", "${workspaceFolder}"],
+      "myCompilerPath": "/usr/local/bin/gcc-7"
+    },
+    "configurations": [
+      {
+        "name": "Octopute",
+        "includePath": ["C:\\Program Files\\boost\\boost_1_74_0"],
+        "browse": {
+          "path": ["C:\\Program Files\\boost\\boost_1_74_0"],
+          "limitSymbolsToIncludedHeaders": true,
+          "databaseFilename": ""
+        }
+      }
+    ],
+    "version": 4
+  }
